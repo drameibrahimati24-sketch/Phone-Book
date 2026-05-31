@@ -1,0 +1,6 @@
+# Ignore compiled class files and folders
+bin/
+*.class
+
+# Ignore local contact persistence database
+contacts.txt
